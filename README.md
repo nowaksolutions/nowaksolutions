@@ -1,5 +1,43 @@
 # 💫 About Me:
-Hi, I’m Chris, a U.S. Marine Corps veteran transitioning into cybersecurity and IT operations.<br><br>I’m currently pursuing my B.S. in Cybersecurity & Information Assurance while building hands-on experience through my homelab(ARCHON), OSINT research, automation projects, and real-world tooling. My background in mechanical systems taught me discipline, troubleshooting under pressure, and ownership of mission outcomes. Skills I now apply to security engineering and technical problem-solving.<br><br>I enjoy breaking systems down to understand how they work, documenting everything I learn, and building practical projects that demonstrate real operational value.<br><br>Right now I’m focused on:<br><br>• SOC-style homelabs (firewalls, VMs, logging, detection)<br>• OSINT tooling and investigations<br>• Python + automation fundamentals<br>• CompTIA and vendor certifications<br>• Turning theory into deployable skills<br><br>My goal is simple: become a technically strong, reliable security professional who understands both infrastructure and adversary behavior.
+## 👋 About Me
+
+Hi, I’m Chris, a U.S. Marine Corps veteran transitioning into cybersecurity and IT operations.
+
+I’m currently pursuing my B.S. in Cybersecurity & Information Assurance while building hands-on experience through my homelab (ARCHON), OSINT research, automation projects, and real-world tooling.
+
+<p align="center">
+  <a href="https://github.com/nowaksolutions/archon-homelab">
+    <img src="https://img.shields.io/badge/🚀%20See%20My%20Homelab%20Progress%20Here-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+My background in mechanical systems developed discipline, troubleshooting under pressure, and ownership of mission outcomes, skills I now apply directly to security engineering and technical problem-solving.
+
+I focus on breaking systems down to understand how they operate, documenting processes with precision, and building projects that demonstrate real operational value.
+
+---
+
+## 🎯 Current Focus
+
+Network security engineering - segmented architectures, firewall policy enforcement, VLAN design, and traffic flow control  
+
+Security operations and monitoring - log aggregation, SIEM integration, alert triage, and detection validation  
+
+Threat detection and analysis - identifying anomalies, analyzing logs, and understanding attacker behavior patterns  
+
+Automation and scripting - Python-based tooling for log parsing, workflow automation, and efficiency improvements  
+
+Intelligence and reconnaissance - OSINT collection, correlation, and investigative methodology development  
+
+Professional development and certification alignment - CompTIA and vendor frameworks mapped to real-world implementation  
+
+Operational execution - building, testing, and documenting systems that demonstrate measurable security outcomes  
+
+---
+
+## 🧠 Objective
+
+Develop into a technically proficient and reliable security professional with a strong understanding of both infrastructure and adversary behavior.
 
 
 ## 🌐 Socials:
