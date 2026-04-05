@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👋 About Me
 
 Hi, I’m Chris, a U.S. Marine Corps veteran transitioning into cybersecurity and IT operations.
 
