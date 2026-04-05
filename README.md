@@ -19,19 +19,19 @@ I focus on breaking systems down to understand how they operate, documenting pro
 
 ## 🎯 Current Focus
 
-Network security engineering - segmented architectures, firewall policy enforcement, VLAN design, and traffic flow control  
+**Network security engineering** - designing segmented environments, implementing firewall policies, and controlling traffic flow across VLANs  
 
-Security operations and monitoring - log aggregation, SIEM integration, alert triage, and detection validation  
+**Security operations and monitoring** - building visibility through log aggregation, SIEM integration, and alert triage workflows  
 
-Threat detection and analysis - identifying anomalies, analyzing logs, and understanding attacker behavior patterns  
+**Threat detection and analysis** - identifying anomalous behavior, analyzing logs, and mapping activity to attacker techniques  
 
-Automation and scripting - Python-based tooling for log parsing, workflow automation, and efficiency improvements  
+**Automation and scripting** - developing Python-based tools to streamline analysis, parsing, and operational workflows  
 
-Intelligence and reconnaissance - OSINT collection, correlation, and investigative methodology development  
+**Intelligence and reconnaissance** - applying OSINT methodologies to support investigation and contextual awareness  
 
-Professional development and certification alignment - CompTIA and vendor frameworks mapped to real-world implementation  
+**Professional development and certification alignment** - reinforcing practical skills through CompTIA and vendor-based frameworks  
 
-Operational execution - building, testing, and documenting systems that demonstrate measurable security outcomes  
+**Operational execution and validation** - building, testing, and documenting systems that demonstrate measurable security outcomes  
 
 ---
 
